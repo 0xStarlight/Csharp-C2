@@ -1,0 +1,11 @@
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\bin\Release\net5.0\ApiModels.deps.json
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\bin\Release\net5.0\ApiModels.dll
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\bin\Release\net5.0\ApiModels.pdb
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.AssemblyInfoInputs.cache
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.AssemblyInfo.cs
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.csproj.CoreCompileInputs.cache
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.dll
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\refint\ApiModels.dll
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ApiModels.pdb
+E:\Hacking-Tools\C2 Framework\DemoFramework\ApiModels\obj\Release\net5.0\ref\ApiModels.dll
