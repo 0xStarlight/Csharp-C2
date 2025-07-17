@@ -159,17 +159,9 @@ if (Native.Kernel32.CreateProcess(@"C:\Windows\System32\notepad.exe", null,
 ### Building the Project
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/c2-framework.git
-cd c2-framework
+git clone https://github.com/0xStarlight/Csharp-C2
 
-# Build the solution
-dotnet build
-
-# Run team server
-dotnet run --project TeamServer
-
-# Build agent
-dotnet build --project Agent
+# Open the file in VS Studio and build the file
 ```
 
 ### Starting a Listener
